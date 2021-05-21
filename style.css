@@ -1,0 +1,54 @@
+#head{
+    font-family: 'Farro', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+#title{
+    background-image: url(http://st2.depositphotos.com/1231957/5277/i/450/depositphotos_52771325-Night-sky-stars-background.jpg);
+}
+#sun{
+    background-color:springgreen;
+}
+#sun:hover{
+    background-image: url(https://static.bhphotovideo.com/explora/sites/default/files/ts-space-sun-and-solar-viewing-facts-versus-fiction.jpg);
+    opacity: 90%; 
+}
+p{
+    color: white;
+    font-family: 'Pattaya', sans-serif;
+    border-bottom-color: black;
+}
+h2{
+    font-family: 'Farro', sans-serif;
+    text-align: center;
+    color: darkred;
+}
+h3{
+   font-family: 'Farro', sans-serif;
+   color: blue;
+   text-align: center;
+   font-size: 21px;
+}
+#earth{
+    background-color: powderblue;
+}
+#earth:hover{
+    background-image: url(https://images.newscientist.com/wp-content/uploads/2021/03/12141425/mxty2c_web.jpg);
+}
+html{
+    background-color: whitesmoke;
+}
+#more{
+    background-color: lightgrey;
+}
+h5{
+    font-family: 'Farro' , sans-serif;
+    text-align: center;
+}
+a{
+    font-family: 'Farro' , sans-serif;
+}
+h6{
+    text-align: center;
+}
